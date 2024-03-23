@@ -1,5 +1,4 @@
-{
-  "extends": "richardpringle",
+ "extends": "richardpringle",
   "env": {
     "es2020": true,
     "mocha": true
